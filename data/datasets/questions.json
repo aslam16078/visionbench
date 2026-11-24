@@ -1,0 +1,483 @@
+{
+    "dataset_name": "VisionBench Visual Questions",
+    "total_images": 10,
+    "images": [
+        {
+            "image_id": "scene_0001",
+            "image_path": "data\\images\\scene_0001.png",
+            "questions": [
+                {
+                    "question": "How many objects are in the image?",
+                    "answer": 2,
+                    "question_type": "object_count"
+                },
+                {
+                    "question": "How many orange objects are present?",
+                    "answer": 2,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many circle objects are present?",
+                    "answer": 2,
+                    "question_type": "shape_count"
+                },
+                {
+                    "question": "Which colors are present in the image?",
+                    "answer": [
+                        "orange"
+                    ],
+                    "question_type": "color_list"
+                }
+            ]
+        },
+        {
+            "image_id": "scene_0002",
+            "image_path": "data\\images\\scene_0002.png",
+            "questions": [
+                {
+                    "question": "How many objects are in the image?",
+                    "answer": 6,
+                    "question_type": "object_count"
+                },
+                {
+                    "question": "How many blue objects are present?",
+                    "answer": 1,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many green objects are present?",
+                    "answer": 1,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many orange objects are present?",
+                    "answer": 1,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many purple objects are present?",
+                    "answer": 3,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many circle objects are present?",
+                    "answer": 4,
+                    "question_type": "shape_count"
+                },
+                {
+                    "question": "How many triangle objects are present?",
+                    "answer": 2,
+                    "question_type": "shape_count"
+                },
+                {
+                    "question": "Which colors are present in the image?",
+                    "answer": [
+                        "blue",
+                        "green",
+                        "orange",
+                        "purple"
+                    ],
+                    "question_type": "color_list"
+                }
+            ]
+        },
+        {
+            "image_id": "scene_0003",
+            "image_path": "data\\images\\scene_0003.png",
+            "questions": [
+                {
+                    "question": "How many objects are in the image?",
+                    "answer": 3,
+                    "question_type": "object_count"
+                },
+                {
+                    "question": "How many green objects are present?",
+                    "answer": 2,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many orange objects are present?",
+                    "answer": 1,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many circle objects are present?",
+                    "answer": 3,
+                    "question_type": "shape_count"
+                },
+                {
+                    "question": "Which colors are present in the image?",
+                    "answer": [
+                        "green",
+                        "orange"
+                    ],
+                    "question_type": "color_list"
+                }
+            ]
+        },
+        {
+            "image_id": "scene_0004",
+            "image_path": "data\\images\\scene_0004.png",
+            "questions": [
+                {
+                    "question": "How many objects are in the image?",
+                    "answer": 5,
+                    "question_type": "object_count"
+                },
+                {
+                    "question": "How many green objects are present?",
+                    "answer": 1,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many purple objects are present?",
+                    "answer": 1,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many red objects are present?",
+                    "answer": 2,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many yellow objects are present?",
+                    "answer": 1,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many circle objects are present?",
+                    "answer": 2,
+                    "question_type": "shape_count"
+                },
+                {
+                    "question": "How many square objects are present?",
+                    "answer": 2,
+                    "question_type": "shape_count"
+                },
+                {
+                    "question": "How many triangle objects are present?",
+                    "answer": 1,
+                    "question_type": "shape_count"
+                },
+                {
+                    "question": "Which colors are present in the image?",
+                    "answer": [
+                        "green",
+                        "purple",
+                        "red",
+                        "yellow"
+                    ],
+                    "question_type": "color_list"
+                }
+            ]
+        },
+        {
+            "image_id": "scene_0005",
+            "image_path": "data\\images\\scene_0005.png",
+            "questions": [
+                {
+                    "question": "How many objects are in the image?",
+                    "answer": 4,
+                    "question_type": "object_count"
+                },
+                {
+                    "question": "How many blue objects are present?",
+                    "answer": 1,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many orange objects are present?",
+                    "answer": 1,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many purple objects are present?",
+                    "answer": 1,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many yellow objects are present?",
+                    "answer": 1,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many circle objects are present?",
+                    "answer": 1,
+                    "question_type": "shape_count"
+                },
+                {
+                    "question": "How many square objects are present?",
+                    "answer": 2,
+                    "question_type": "shape_count"
+                },
+                {
+                    "question": "How many triangle objects are present?",
+                    "answer": 1,
+                    "question_type": "shape_count"
+                },
+                {
+                    "question": "Which colors are present in the image?",
+                    "answer": [
+                        "blue",
+                        "orange",
+                        "purple",
+                        "yellow"
+                    ],
+                    "question_type": "color_list"
+                }
+            ]
+        },
+        {
+            "image_id": "scene_0006",
+            "image_path": "data\\images\\scene_0006.png",
+            "questions": [
+                {
+                    "question": "How many objects are in the image?",
+                    "answer": 6,
+                    "question_type": "object_count"
+                },
+                {
+                    "question": "How many blue objects are present?",
+                    "answer": 2,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many green objects are present?",
+                    "answer": 2,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many orange objects are present?",
+                    "answer": 2,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many circle objects are present?",
+                    "answer": 3,
+                    "question_type": "shape_count"
+                },
+                {
+                    "question": "How many square objects are present?",
+                    "answer": 2,
+                    "question_type": "shape_count"
+                },
+                {
+                    "question": "How many triangle objects are present?",
+                    "answer": 1,
+                    "question_type": "shape_count"
+                },
+                {
+                    "question": "Which colors are present in the image?",
+                    "answer": [
+                        "blue",
+                        "green",
+                        "orange"
+                    ],
+                    "question_type": "color_list"
+                }
+            ]
+        },
+        {
+            "image_id": "scene_0007",
+            "image_path": "data\\images\\scene_0007.png",
+            "questions": [
+                {
+                    "question": "How many objects are in the image?",
+                    "answer": 4,
+                    "question_type": "object_count"
+                },
+                {
+                    "question": "How many blue objects are present?",
+                    "answer": 1,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many orange objects are present?",
+                    "answer": 1,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many purple objects are present?",
+                    "answer": 1,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many red objects are present?",
+                    "answer": 1,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many circle objects are present?",
+                    "answer": 2,
+                    "question_type": "shape_count"
+                },
+                {
+                    "question": "How many square objects are present?",
+                    "answer": 1,
+                    "question_type": "shape_count"
+                },
+                {
+                    "question": "How many triangle objects are present?",
+                    "answer": 1,
+                    "question_type": "shape_count"
+                },
+                {
+                    "question": "Which colors are present in the image?",
+                    "answer": [
+                        "blue",
+                        "orange",
+                        "purple",
+                        "red"
+                    ],
+                    "question_type": "color_list"
+                }
+            ]
+        },
+        {
+            "image_id": "scene_0008",
+            "image_path": "data\\images\\scene_0008.png",
+            "questions": [
+                {
+                    "question": "How many objects are in the image?",
+                    "answer": 5,
+                    "question_type": "object_count"
+                },
+                {
+                    "question": "How many green objects are present?",
+                    "answer": 1,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many purple objects are present?",
+                    "answer": 2,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many red objects are present?",
+                    "answer": 1,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many yellow objects are present?",
+                    "answer": 1,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many circle objects are present?",
+                    "answer": 1,
+                    "question_type": "shape_count"
+                },
+                {
+                    "question": "How many square objects are present?",
+                    "answer": 1,
+                    "question_type": "shape_count"
+                },
+                {
+                    "question": "How many triangle objects are present?",
+                    "answer": 3,
+                    "question_type": "shape_count"
+                },
+                {
+                    "question": "Which colors are present in the image?",
+                    "answer": [
+                        "green",
+                        "purple",
+                        "red",
+                        "yellow"
+                    ],
+                    "question_type": "color_list"
+                }
+            ]
+        },
+        {
+            "image_id": "scene_0009",
+            "image_path": "data\\images\\scene_0009.png",
+            "questions": [
+                {
+                    "question": "How many objects are in the image?",
+                    "answer": 4,
+                    "question_type": "object_count"
+                },
+                {
+                    "question": "How many blue objects are present?",
+                    "answer": 1,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many green objects are present?",
+                    "answer": 1,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many orange objects are present?",
+                    "answer": 1,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many red objects are present?",
+                    "answer": 1,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many circle objects are present?",
+                    "answer": 1,
+                    "question_type": "shape_count"
+                },
+                {
+                    "question": "How many square objects are present?",
+                    "answer": 1,
+                    "question_type": "shape_count"
+                },
+                {
+                    "question": "How many triangle objects are present?",
+                    "answer": 2,
+                    "question_type": "shape_count"
+                },
+                {
+                    "question": "Which colors are present in the image?",
+                    "answer": [
+                        "blue",
+                        "green",
+                        "orange",
+                        "red"
+                    ],
+                    "question_type": "color_list"
+                }
+            ]
+        },
+        {
+            "image_id": "scene_0010",
+            "image_path": "data\\images\\scene_0010.png",
+            "questions": [
+                {
+                    "question": "How many objects are in the image?",
+                    "answer": 2,
+                    "question_type": "object_count"
+                },
+                {
+                    "question": "How many green objects are present?",
+                    "answer": 1,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many purple objects are present?",
+                    "answer": 1,
+                    "question_type": "color_count"
+                },
+                {
+                    "question": "How many circle objects are present?",
+                    "answer": 2,
+                    "question_type": "shape_count"
+                },
+                {
+                    "question": "Which colors are present in the image?",
+                    "answer": [
+                        "green",
+                        "purple"
+                    ],
+                    "question_type": "color_list"
+                }
+            ]
+        }
+    ]
+}

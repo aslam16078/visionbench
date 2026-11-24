@@ -1,0 +1,456 @@
+{
+    "dataset_name": "VisionBench Synthetic Dataset",
+    "seed": 42,
+    "number_of_images": 10,
+    "images": [
+        {
+            "image_id": "scene_0001",
+            "image_path": "data\\images\\scene_0001.png",
+            "image_size": 512,
+            "objects": [
+                {
+                    "shape": "circle",
+                    "color": "orange",
+                    "position": {
+                        "x": 135,
+                        "y": 124
+                    },
+                    "size": 67
+                },
+                {
+                    "shape": "circle",
+                    "color": "orange",
+                    "position": {
+                        "x": 356,
+                        "y": 389
+                    },
+                    "size": 56
+                }
+            ],
+            "total_objects": 2
+        },
+        {
+            "image_id": "scene_0002",
+            "image_path": "data\\images\\scene_0002.png",
+            "image_size": 512,
+            "objects": [
+                {
+                    "shape": "circle",
+                    "color": "purple",
+                    "position": {
+                        "x": 26,
+                        "y": 25
+                    },
+                    "size": 77
+                },
+                {
+                    "shape": "circle",
+                    "color": "blue",
+                    "position": {
+                        "x": 268,
+                        "y": 318
+                    },
+                    "size": 64
+                },
+                {
+                    "shape": "circle",
+                    "color": "purple",
+                    "position": {
+                        "x": 376,
+                        "y": 342
+                    },
+                    "size": 62
+                },
+                {
+                    "shape": "triangle",
+                    "color": "purple",
+                    "position": {
+                        "x": 122,
+                        "y": 239
+                    },
+                    "size": 76
+                },
+                {
+                    "shape": "triangle",
+                    "color": "green",
+                    "position": {
+                        "x": 398,
+                        "y": 422
+                    },
+                    "size": 50
+                },
+                {
+                    "shape": "circle",
+                    "color": "orange",
+                    "position": {
+                        "x": 184,
+                        "y": 152
+                    },
+                    "size": 77
+                }
+            ],
+            "total_objects": 6
+        },
+        {
+            "image_id": "scene_0003",
+            "image_path": "data\\images\\scene_0003.png",
+            "image_size": 512,
+            "objects": [
+                {
+                    "shape": "circle",
+                    "color": "green",
+                    "position": {
+                        "x": 57,
+                        "y": 204
+                    },
+                    "size": 56
+                },
+                {
+                    "shape": "circle",
+                    "color": "green",
+                    "position": {
+                        "x": 319,
+                        "y": 145
+                    },
+                    "size": 72
+                },
+                {
+                    "shape": "circle",
+                    "color": "orange",
+                    "position": {
+                        "x": 284,
+                        "y": 73
+                    },
+                    "size": 79
+                }
+            ],
+            "total_objects": 3
+        },
+        {
+            "image_id": "scene_0004",
+            "image_path": "data\\images\\scene_0004.png",
+            "image_size": 512,
+            "objects": [
+                {
+                    "shape": "circle",
+                    "color": "purple",
+                    "position": {
+                        "x": 434,
+                        "y": 331
+                    },
+                    "size": 68
+                },
+                {
+                    "shape": "triangle",
+                    "color": "green",
+                    "position": {
+                        "x": 108,
+                        "y": 370
+                    },
+                    "size": 86
+                },
+                {
+                    "shape": "circle",
+                    "color": "red",
+                    "position": {
+                        "x": 126,
+                        "y": 405
+                    },
+                    "size": 92
+                },
+                {
+                    "shape": "square",
+                    "color": "red",
+                    "position": {
+                        "x": 61,
+                        "y": 204
+                    },
+                    "size": 64
+                },
+                {
+                    "shape": "square",
+                    "color": "yellow",
+                    "position": {
+                        "x": 196,
+                        "y": 93
+                    },
+                    "size": 90
+                }
+            ],
+            "total_objects": 5
+        },
+        {
+            "image_id": "scene_0005",
+            "image_path": "data\\images\\scene_0005.png",
+            "image_size": 512,
+            "objects": [
+                {
+                    "shape": "square",
+                    "color": "blue",
+                    "position": {
+                        "x": 146,
+                        "y": 369
+                    },
+                    "size": 92
+                },
+                {
+                    "shape": "triangle",
+                    "color": "orange",
+                    "position": {
+                        "x": 321,
+                        "y": 335
+                    },
+                    "size": 54
+                },
+                {
+                    "shape": "circle",
+                    "color": "purple",
+                    "position": {
+                        "x": 135,
+                        "y": 93
+                    },
+                    "size": 96
+                },
+                {
+                    "shape": "square",
+                    "color": "yellow",
+                    "position": {
+                        "x": 337,
+                        "y": 362
+                    },
+                    "size": 67
+                }
+            ],
+            "total_objects": 4
+        },
+        {
+            "image_id": "scene_0006",
+            "image_path": "data\\images\\scene_0006.png",
+            "image_size": 512,
+            "objects": [
+                {
+                    "shape": "circle",
+                    "color": "orange",
+                    "position": {
+                        "x": 403,
+                        "y": 407
+                    },
+                    "size": 70
+                },
+                {
+                    "shape": "circle",
+                    "color": "blue",
+                    "position": {
+                        "x": 422,
+                        "y": 171
+                    },
+                    "size": 52
+                },
+                {
+                    "shape": "square",
+                    "color": "green",
+                    "position": {
+                        "x": 118,
+                        "y": 300
+                    },
+                    "size": 54
+                },
+                {
+                    "shape": "triangle",
+                    "color": "green",
+                    "position": {
+                        "x": 345,
+                        "y": 265
+                    },
+                    "size": 63
+                },
+                {
+                    "shape": "square",
+                    "color": "orange",
+                    "position": {
+                        "x": 83,
+                        "y": 145
+                    },
+                    "size": 79
+                },
+                {
+                    "shape": "circle",
+                    "color": "blue",
+                    "position": {
+                        "x": 297,
+                        "y": 285
+                    },
+                    "size": 97
+                }
+            ],
+            "total_objects": 6
+        },
+        {
+            "image_id": "scene_0007",
+            "image_path": "data\\images\\scene_0007.png",
+            "image_size": 512,
+            "objects": [
+                {
+                    "shape": "triangle",
+                    "color": "purple",
+                    "position": {
+                        "x": 308,
+                        "y": 214
+                    },
+                    "size": 77
+                },
+                {
+                    "shape": "square",
+                    "color": "blue",
+                    "position": {
+                        "x": 270,
+                        "y": 262
+                    },
+                    "size": 58
+                },
+                {
+                    "shape": "circle",
+                    "color": "red",
+                    "position": {
+                        "x": 88,
+                        "y": 331
+                    },
+                    "size": 57
+                },
+                {
+                    "shape": "circle",
+                    "color": "orange",
+                    "position": {
+                        "x": 315,
+                        "y": 42
+                    },
+                    "size": 77
+                }
+            ],
+            "total_objects": 4
+        },
+        {
+            "image_id": "scene_0008",
+            "image_path": "data\\images\\scene_0008.png",
+            "image_size": 512,
+            "objects": [
+                {
+                    "shape": "square",
+                    "color": "purple",
+                    "position": {
+                        "x": 280,
+                        "y": 138
+                    },
+                    "size": 79
+                },
+                {
+                    "shape": "triangle",
+                    "color": "red",
+                    "position": {
+                        "x": 379,
+                        "y": 68
+                    },
+                    "size": 93
+                },
+                {
+                    "shape": "triangle",
+                    "color": "purple",
+                    "position": {
+                        "x": 146,
+                        "y": 403
+                    },
+                    "size": 98
+                },
+                {
+                    "shape": "triangle",
+                    "color": "green",
+                    "position": {
+                        "x": 160,
+                        "y": 232
+                    },
+                    "size": 57
+                },
+                {
+                    "shape": "circle",
+                    "color": "yellow",
+                    "position": {
+                        "x": 379,
+                        "y": 378
+                    },
+                    "size": 50
+                }
+            ],
+            "total_objects": 5
+        },
+        {
+            "image_id": "scene_0009",
+            "image_path": "data\\images\\scene_0009.png",
+            "image_size": 512,
+            "objects": [
+                {
+                    "shape": "triangle",
+                    "color": "blue",
+                    "position": {
+                        "x": 64,
+                        "y": 330
+                    },
+                    "size": 82
+                },
+                {
+                    "shape": "square",
+                    "color": "orange",
+                    "position": {
+                        "x": 321,
+                        "y": 111
+                    },
+                    "size": 82
+                },
+                {
+                    "shape": "circle",
+                    "color": "green",
+                    "position": {
+                        "x": 92,
+                        "y": 286
+                    },
+                    "size": 98
+                },
+                {
+                    "shape": "triangle",
+                    "color": "red",
+                    "position": {
+                        "x": 175,
+                        "y": 260
+                    },
+                    "size": 88
+                }
+            ],
+            "total_objects": 4
+        },
+        {
+            "image_id": "scene_0010",
+            "image_path": "data\\images\\scene_0010.png",
+            "image_size": 512,
+            "objects": [
+                {
+                    "shape": "circle",
+                    "color": "green",
+                    "position": {
+                        "x": 132,
+                        "y": 39
+                    },
+                    "size": 69
+                },
+                {
+                    "shape": "circle",
+                    "color": "purple",
+                    "position": {
+                        "x": 53,
+                        "y": 384
+                    },
+                    "size": 55
+                }
+            ],
+            "total_objects": 2
+        }
+    ]
+}
