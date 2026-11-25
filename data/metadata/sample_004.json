@@ -1,0 +1,64 @@
+{
+    "sample_id": 4,
+    "image": "data\\generated_images\\sample_004.png",
+    "width": 640,
+    "height": 480,
+    "total_objects": 5,
+    "objects": [
+        {
+            "id": 1,
+            "shape": "circle",
+            "color": "red",
+            "position": {
+                "x1": 424,
+                "y1": 59,
+                "x2": 514,
+                "y2": 149
+            }
+        },
+        {
+            "id": 2,
+            "shape": "triangle",
+            "color": "orange",
+            "position": {
+                "x1": 42,
+                "y1": 248,
+                "x2": 130,
+                "y2": 336
+            }
+        },
+        {
+            "id": 3,
+            "shape": "triangle",
+            "color": "orange",
+            "position": {
+                "x1": 317,
+                "y1": 263,
+                "x2": 363,
+                "y2": 309
+            }
+        },
+        {
+            "id": 4,
+            "shape": "rectangle",
+            "color": "orange",
+            "position": {
+                "x1": 275,
+                "y1": 92,
+                "x2": 371,
+                "y2": 188
+            }
+        },
+        {
+            "id": 5,
+            "shape": "rectangle",
+            "color": "red",
+            "position": {
+                "x1": 125,
+                "y1": 244,
+                "x2": 174,
+                "y2": 293
+            }
+        }
+    ]
+}

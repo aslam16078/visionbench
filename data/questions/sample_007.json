@@ -1,0 +1,37 @@
+[
+    {
+        "question": "How many objects are present in the image?",
+        "answer": 6,
+        "category": "object_count"
+    },
+    {
+        "question": "How many triangles are present?",
+        "answer": 2,
+        "category": "shape_count"
+    },
+    {
+        "question": "How many rectangles are present?",
+        "answer": 3,
+        "category": "shape_count"
+    },
+    {
+        "question": "How many circles are present?",
+        "answer": 1,
+        "category": "shape_count"
+    },
+    {
+        "question": "How many red objects are present?",
+        "answer": 3,
+        "category": "color_count"
+    },
+    {
+        "question": "How many blue objects are present?",
+        "answer": 2,
+        "category": "color_count"
+    },
+    {
+        "question": "How many orange objects are present?",
+        "answer": 1,
+        "category": "color_count"
+    }
+]

@@ -1,0 +1,108 @@
+{
+    "sample_id": 5,
+    "image": "data\\generated_images\\sample_005.png",
+    "width": 640,
+    "height": 480,
+    "total_objects": 9,
+    "objects": [
+        {
+            "id": 1,
+            "shape": "circle",
+            "color": "blue",
+            "position": {
+                "x1": 416,
+                "y1": 288,
+                "x2": 477,
+                "y2": 349
+            }
+        },
+        {
+            "id": 2,
+            "shape": "circle",
+            "color": "green",
+            "position": {
+                "x1": 187,
+                "y1": 91,
+                "x2": 264,
+                "y2": 168
+            }
+        },
+        {
+            "id": 3,
+            "shape": "triangle",
+            "color": "green",
+            "position": {
+                "x1": 307,
+                "y1": 69,
+                "x2": 387,
+                "y2": 149
+            }
+        },
+        {
+            "id": 4,
+            "shape": "circle",
+            "color": "blue",
+            "position": {
+                "x1": 36,
+                "y1": 122,
+                "x2": 124,
+                "y2": 210
+            }
+        },
+        {
+            "id": 5,
+            "shape": "circle",
+            "color": "red",
+            "position": {
+                "x1": 101,
+                "y1": 105,
+                "x2": 179,
+                "y2": 183
+            }
+        },
+        {
+            "id": 6,
+            "shape": "rectangle",
+            "color": "blue",
+            "position": {
+                "x1": 48,
+                "y1": 259,
+                "x2": 89,
+                "y2": 300
+            }
+        },
+        {
+            "id": 7,
+            "shape": "rectangle",
+            "color": "blue",
+            "position": {
+                "x1": 94,
+                "y1": 133,
+                "x2": 182,
+                "y2": 221
+            }
+        },
+        {
+            "id": 8,
+            "shape": "triangle",
+            "color": "orange",
+            "position": {
+                "x1": 294,
+                "y1": 278,
+                "x2": 394,
+                "y2": 378
+            }
+        },
+        {
+            "id": 9,
+            "shape": "circle",
+            "color": "red",
+            "position": {
+                "x1": 366,
+                "y1": 69,
+                "x2": 416,
+                "y2": 119
+            }
+        }
+    ]
+}

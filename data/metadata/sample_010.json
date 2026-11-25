@@ -1,0 +1,75 @@
+{
+    "sample_id": 10,
+    "image": "data\\generated_images\\sample_010.png",
+    "width": 640,
+    "height": 480,
+    "total_objects": 6,
+    "objects": [
+        {
+            "id": 1,
+            "shape": "circle",
+            "color": "blue",
+            "position": {
+                "x1": 174,
+                "y1": 55,
+                "x2": 243,
+                "y2": 124
+            }
+        },
+        {
+            "id": 2,
+            "shape": "circle",
+            "color": "orange",
+            "position": {
+                "x1": 325,
+                "y1": 166,
+                "x2": 378,
+                "y2": 219
+            }
+        },
+        {
+            "id": 3,
+            "shape": "triangle",
+            "color": "green",
+            "position": {
+                "x1": 353,
+                "y1": 181,
+                "x2": 403,
+                "y2": 231
+            }
+        },
+        {
+            "id": 4,
+            "shape": "circle",
+            "color": "blue",
+            "position": {
+                "x1": 101,
+                "y1": 240,
+                "x2": 194,
+                "y2": 333
+            }
+        },
+        {
+            "id": 5,
+            "shape": "rectangle",
+            "color": "green",
+            "position": {
+                "x1": 89,
+                "y1": 55,
+                "x2": 175,
+                "y2": 141
+            }
+        },
+        {
+            "id": 6,
+            "shape": "rectangle",
+            "color": "red",
+            "position": {
+                "x1": 394,
+                "y1": 146,
+                "x2": 480,
+                "y2": 232
+            }
+        }
+    ]
+}
